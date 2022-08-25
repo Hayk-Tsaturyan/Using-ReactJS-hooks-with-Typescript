@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Using-ReactJS-hooks-with-Typescript/static/css/main.fb1c79bd.css",
+    "main.js": "/Using-ReactJS-hooks-with-Typescript/static/js/main.b0bd8765.js",
+    "index.html": "/Using-ReactJS-hooks-with-Typescript/index.html",
+    "main.fb1c79bd.css.map": "/Using-ReactJS-hooks-with-Typescript/static/css/main.fb1c79bd.css.map",
+    "main.b0bd8765.js.map": "/Using-ReactJS-hooks-with-Typescript/static/js/main.b0bd8765.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1c79bd.css",
+    "static/js/main.b0bd8765.js"
+  ]
+}
