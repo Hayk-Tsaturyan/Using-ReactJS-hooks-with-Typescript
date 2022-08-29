@@ -1,7 +1,7 @@
-import React, { useState, useLayoutEffect } from "react";
+import { useState, useLayoutEffect } from "react";
 
 function Randomizer() {
-  const [value, setValue] = useState(0);
+  const [value, setValue] = useState<number>(0);
 
   useLayoutEffect(() => {
     if (value === 0) {
