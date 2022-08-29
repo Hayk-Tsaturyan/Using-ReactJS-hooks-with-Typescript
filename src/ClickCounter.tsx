@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function ClickCounter({ initialCount }: { initialCount?: number }) {
-  const [count, setCount] = useState(0);
+  const [count, setCount] = useState<number>(0);
   return (
     <div>
       <p>
