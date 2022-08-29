@@ -1,8 +1,8 @@
 import React, { useState, useRef } from "react";
 
 function FormForFullName() {
-  const [name, setName] = useState("");
-  const [surname, setSurname] = useState("");
+  const [name, setName] = useState<string>("");
+  const [surname, setSurname] = useState<string>("");
 
   const nameInputRef: any = useRef();
   const surnameInputRef: any = useRef();
